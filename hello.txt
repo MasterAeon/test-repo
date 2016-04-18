@@ -1,1 +1,4 @@
-"hello world!" 
+import System;
+
+//says "hello world!"
+System.out.println("hello world!"); 
